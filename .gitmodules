@@ -1,0 +1,3 @@
+[submodule "camel-hibersap"]
+	path = camel-hibersap
+	url = https://github.com/oltoko/camel-hibersap.git
